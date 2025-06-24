@@ -58,5 +58,5 @@ This GitHub contains real academic and personal projects from my training, inclu
 
 ## 📫 Contact
 
-I’m currently based in Burgos, Spain, with full availability to work remotely or relocate within the country.  
+I’m currently based in Spain, with full availability to work remotely or relocate within the country.  
 Feel free to contact me via email if you'd like to know more about my work or discuss collaboration opportunities.
